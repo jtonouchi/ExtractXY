@@ -1,8 +1,7 @@
 
 
-# Extract XY — Terms & Conditions and Privacy Policy
-
-**Effective Date:** July 28, 2026  
+# Extract XY — Terms & Conditions
+ 
 **Last Updated:** July 28, 2026  
 
 ---
@@ -12,7 +11,7 @@
 Welcome to **Extract XY**. By downloading, accessing, or using Extract XY (the "App"), you agree to be bound by these Terms & Conditions ("Terms"). If you do not agree to these Terms, please do not use the App.
 
 ### 1. Description of Service
-Extract XY is a utility application designed for iOS that digitizes plot images using Apple's Vision framework and performs mathematical and data calculations. 
+Extract XY is a utility application designed for iOS that digitizes plot images using computer vision and performs mathematical and data calculations. 
 
 ### 2. Local Processing & Device Reliance
 * **On-Device Execution:** All plot digitization, image processing, and calculations are performed locally on your device.
@@ -20,7 +19,7 @@ Extract XY is a utility application designed for iOS that digitizes plot images 
 
 ### 3. Calculation Disclaimer & Limit of Liability
 > **IMPORTANT DISCLAIMER REGARDING DATA ACCURACY**
-> Extract XY utilizes automated image recognition (Apple Vision framework) and mathematical algorithms to estimate and digitize plot coordinates. **Calculations, measurements, and digitized data provided by the App are estimations and are provided "AS IS" without warranty of any kind.**
+> Extract XY utilizes automated image recognition and mathematical algorithms to estimate and digitize plot coordinates. **Calculations, measurements, and digitized data provided by the App are estimations and are provided "AS IS" without warranty of any kind.**
 > 
 > * You acknowledge and agree that digitized results may contain errors, inaccuracies, or misalignments due to image quality, perspective distortion, or algorithmic limitations.
 > * You are solely responsible for verifying the accuracy of any digitized data or calculations prior to relying on them for professional, academic, commercial, or critical engineering purposes.
