@@ -6,7 +6,7 @@
 
 ---
 
-## Part 1: Terms & Conditions
+## Terms & Conditions
 
 Welcome to **Extract XY**. By downloading, accessing, or using Extract XY (the "App"), you agree to be bound by these Terms & Conditions ("Terms"). If you do not agree to these Terms, please do not use the App.
 
