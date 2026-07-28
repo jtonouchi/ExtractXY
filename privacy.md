@@ -9,7 +9,7 @@ Your privacy is fundamental to us. **Extract XY is designed with a privacy-first
 Extract XY does **not** require user accounts, logins, email registration, or passwords. You can use the App completely anonymously.
 
 ## 2. On-Device Data Processing
-* **Image & Plot Data:** Photos, images, or documents you load into Extract XY for plot digitization are processed **strictly on your local device** using Apple’s Vision framework. 
+* **Image & Plot Data:** Photos, images, or documents you load into Extract XY for plot digitization are processed **strictly on your local device**. 
 * **No Cloud Uploads:** Your images, digitized coordinates, and calculated results are **never** uploaded to, stored on, or transmitted across any external servers or third-party cloud services.
 * **Clipboard Usage:** When you copy digitized data to your device's clipboard, that data remains locally within your iOS ecosystem for you to paste into other applications. We do not track or monitor your clipboard contents.
 
