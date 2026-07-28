@@ -1,6 +1,6 @@
 
 
-# Extract XY — Terms & Conditions
+# Terms & Conditions
  
 **Last Updated:** July 28, 2026  
 
