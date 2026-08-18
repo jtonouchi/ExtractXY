@@ -10,7 +10,7 @@
 By downloading, installing, or using **Extract XY** ("the App"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, do not download, install, or use the App.
 
 ## 2. Description of Service
-Extract XY is an iOS application designed to digitize plot data using Apple's Vision framework.
+The App is an iOS application designed to digitize plot data using Apple's Vision framework.
 * **Basic Version:** Provides manual plot digitization capabilities.
 * **Plus Version:** Unlocks advanced digitization features, including:
   * **Auto Box Method:** Digitizes groups of data points automatically.
@@ -25,7 +25,7 @@ All image analysis, plot digitization, math routines, and calculations are execu
 * **Refunds:** Because transaction processing is handled directly by Apple, refund requests must be submitted directly to Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ### How to Restore Purchases
-If you reinstall Extract XY or switch to a new iOS device:
+If you reinstall the App or switch to a new iOS device:
 1. Open **Extract XY**.
 2. Go to **Settings** or the **Upgrade / In-App Purchase** screen.
 3. Tap **Restore Purchases**.
