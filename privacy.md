@@ -30,8 +30,8 @@ We may update this Privacy Policy from time to time. Any modifications will be e
 
 ## 8. Contact Information
 For questions or inquiries regarding these Terms or Privacy Policy, please contact:
-* **Support Email:** `support@extractxy.com`
-* **Support Website:** [Insert Your Support Website / URL Here]
+* **Support Email:** `jontonouchi.extractxy@gmail.com`
+
 
 
 
