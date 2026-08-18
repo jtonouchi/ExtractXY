@@ -40,6 +40,8 @@ If you reinstall the App or switch to a new iOS device:
 ## 6. User Data & Clipboard Export
 You retain all rights and ownership of any images, plots, or coordinate data processed in the App. When you copy digitized data to your device's clipboard, that data is temporarily managed by your iOS system clipboard.
 
+## 7. Changes to These Terms
+Terms may be updated periodically. Continued use of the App after updates constitutes acceptance of the revised Terms.
 
 ---
 
